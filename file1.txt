@@ -1,2 +1,2 @@
 ini adalah file1
-(edit) ini adalah baris kedua dari file1
+ini adalah baris kedua dari file1
